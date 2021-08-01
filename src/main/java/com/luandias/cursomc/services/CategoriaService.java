@@ -1,4 +1,4 @@
-package com.luandias.cursomc.servicies;
+package com.luandias.cursomc.services;
 
 import java.util.Optional;
 
